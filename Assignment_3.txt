@@ -1,0 +1,8 @@
+For creating a flutter app you need to first run the command:
+flutter create <app_name>
+
+Second steps is to start editig main.dart file present in:
+lib/main.dart
+
+Flutter has coding language similar to java and c++
+so syntax is similar to them

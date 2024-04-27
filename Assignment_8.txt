@@ -1,0 +1,3 @@
+For creating a service worker based react app u need to run command:
+npx create-react-app <app_name> --template cra-template-pwa
+
