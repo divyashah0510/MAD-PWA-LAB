@@ -1,0 +1,17 @@
+{
+    "env": {
+      "browser": true,
+      "node": true,
+      "serviceworker": true // Add service worker environment
+    },
+    "globals": {
+      "importScripts": "readonly", // Add importScripts as a global
+      "firebase": "readonly", // Add firebase as a global
+      "self": "readonly" // Add self as a global
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:prettier/recommended"
+    ],
+  }
+  
